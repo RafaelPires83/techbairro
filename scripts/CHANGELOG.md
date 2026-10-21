@@ -15,4 +15,7 @@
 - A atualização verifica o retorno de atualizar() e não informa sucesso se o registro não existir mais.
 - A exclusão verifica o retorno de remover() e atualiza a lista quando o cliente já tiver sido excluído.
 - A seleção de linhas informativas, como Nenhum cliente cadastrado, não é tratada como seleção de cliente.
-- O botão de salvar volta ao texto Salvar quando o formulário sai do modo de edição.A
+- O botão de salvar volta ao texto Salvar quando o formulário sai do modo de edição.
+## Em desenvolvimento
+### Adicionado
+- Código publicado no GitHub, com histórico de versões.
