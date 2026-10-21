@@ -13,3 +13,6 @@ Como executar
 Dados
 - Na primeira execução, o arquivo techbairro.db é criado vazio na mesma pasta.
 - Faça cópias desse arquivo para não perder os clientes cadastrados.
+
+Código-fonte e versões
+https://github.com/RafaelPires83/techbairro.git
