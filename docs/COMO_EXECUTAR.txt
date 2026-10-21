@@ -16,3 +16,9 @@ Dados
 
 Código-fonte e versões
 https://github.com/RafaelPires83/techbairro.git
+
+git log --oneline
+671bd2c (HEAD -> main) Merge branch 'main' of https://github.com/RafaelPires83/techbairro
+cf8cef4 (origin/main) Corrige texto do COMO_EXECUTAR.txt
+58c9716 Atualiza CHANGELOG
+5407e0d Arquivos Adicionados TechBairro
