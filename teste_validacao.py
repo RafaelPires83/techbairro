@@ -4,7 +4,7 @@
 #
 # Testa as regras de negócio SEM abrir a janela e SEM mexer no banco.
 #
-# Execute: python testar_validacao.py
+# Execute: python teste_validacao.py
 
 from cliente import Cliente
 from validacao import ValidadorCliente

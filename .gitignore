@@ -12,3 +12,5 @@ __pycache__/
 *.pyc
 # Pacotes .zip gerados pelo gerar_pacote.py (Aula 18)
 *.zip
+# Pacotes gerados para distribuição
+dist/

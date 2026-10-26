@@ -1,4 +1,16 @@
 # CHANGELOG — TechBairro
+## v3.3.2 (Aula 27)
+
+### Adicionado
+- Manual de uso em `docs/manual_de_uso.md`.
+- Arquivo `docs/requirements.txt`.
+- Atualização das instruções de execução em `docs/COMO_EXECUTAR.txt`.
+- Registro dos testes funcionais em `docs/registro_de_testes.md`.
+- Checklist da entrega final em `docs/entrega_final.md`.
+
+### Manutenção
+- Atualização do gerador de pacotes para produzir a versão 3.3.2.
+- Ajustes na documentação e nos arquivos de teste.
 
 ## v3.3.0 (Aula 20)
 
