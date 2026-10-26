@@ -29,7 +29,7 @@ def teste_endereco_vazio():
 def teste_telefone_com_letras():
     cliente = cliente_valido()
     cliente.telefone = "6199ABC0001"
-    assert validador.validar(cliente) == "Telefone inválido: use somente números."
+    assert validador.validar(cliente) == "Telefone inválido: use somente números e espaços."
 
 # T4: e-mail sem ponto no domínio
 def teste_email_sem_ponto():

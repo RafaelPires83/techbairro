@@ -28,8 +28,11 @@ class ValidadorCliente:
             return f"Preencha o(s) campo(s): {', '.join(vazios)}"
 
         # RF02: o telefone precisa ter somente números
-        if not cliente.telefone.isdigit():
-            return "Telefone inválido: use somente números."
+            # RF02: o telefone pode conter números e espaços
+        telefone = cliente.telefone.replace(" ", "")
+
+        if not telefone.isdigit():
+            return "Telefone inválido: use somente números e espaços."
 
         # RF03: o e-mail precisa estar no formato nome@dominio.com
         if not self.email_parece_valido(cliente.email):

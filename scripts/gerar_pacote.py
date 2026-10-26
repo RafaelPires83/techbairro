@@ -12,7 +12,7 @@ PASTA_DO_PROJETO = os.path.dirname(PASTA_DOS_SCRIPTS)
 VERSAO = "3.3.2"
 
 # Pastas que NÃO entram no pacote
-PASTAS_FORA = ["dist", "__pycache__"]
+PASTAS_FORA = [".git", "dist", "__pycache__"]
 
 # Tipos de arquivo que NÃO entram no pacote
 EXTENSOES_FORA = [".db", ".pyc"]
