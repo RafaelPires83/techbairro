@@ -1,0 +1,9 @@
+
+# TechBairro - Dependências do projeto
+# O projeto utiliza apenas módulos da biblioteca padrão do Python.
+# Não há bibliotecas externas necessárias no momento.
+#
+# Módulos utilizados:
+# tkinter  - interface gráfica
+# sqlite3  - banco de dados SQLite
+# os       - manipulação de caminhos e arquivos

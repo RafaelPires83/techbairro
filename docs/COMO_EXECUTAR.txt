@@ -1,4 +1,4 @@
-TechBairro 3.3.2
+TechBairro 3.3.1
 
 Requisitos
 - Python 3 (testado com Python 3.12.0)

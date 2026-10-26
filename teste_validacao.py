@@ -7,7 +7,7 @@
 # Execute: python testar_validacao.py
 
 from cliente import Cliente
-from TechBairro.validacao import ValidadorCliente
+from validacao import ValidadorCliente
 
 validador = ValidadorCliente()
 
